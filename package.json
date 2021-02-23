@@ -1,0 +1,22 @@
+{
+  "name": "bitminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArviX#8443",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "colors": "^1.4.0",
+    "enmap": "^5.8.0",
+    "eris": "^0.13.3",
+    "figlet": "^1.4.0",
+    "moment": "^2.27.0",
+    "ms": "latest",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0"
+  }
+}
